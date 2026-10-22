@@ -1,12 +1,12 @@
-# 2026 CS 4379K / CS 5342 Introduction to Autonomous Robotics, Robotics and Autonomous Systems
+# 2026 Fall CS7389K Advanced Robotics and Autonomous Systems
 
 ## Programming Assignment: Milestone 2 (V1.05)
 
-**Minhyuk Park and Tsz-Chiu Au**
+**Authors:** Minhyuk Park and Tsz-Chiu Au (Some very minor edits by MD Sameer Iqbal Chowdhury)
 
 ### Introduction
 
-Welcome to CS 4379K / CS 5342. This assignment will give you an idea of how to interact with ROBOTIS’ Turtlebot3 waffle Pi with a Manipulator Arm using the Robot Operating System 2.
+Welcome to CS7389K. This assignment will give you an idea of how to interact with ROBOTIS’ Turtlebot3 waffle Pi with a Manipulator Arm using the Robot Operating System 2.
 
 The second milestone is about simulating and controlling a robot arm in Gazebo, and controlling the physical turtlebot by running teleoperation, SLAM, and Navigation nodes.
 
