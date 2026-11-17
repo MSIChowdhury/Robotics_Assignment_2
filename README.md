@@ -19,6 +19,8 @@ Robot Operating System version is associated with Ubuntu Long-Term Support Versi
 
 [https://docs.ros.org/en/humble/Tutorials.html](https://docs.ros.org/en/humble/Tutorials.html)
 
+**The Remote PC.** In this course, the **Remote PC** is the laptop that has been provided to you. Every instruction that is marked **[Remote PC]** is performed on this laptop, inside the Docker environment that you set up in Assignment 1.
+
 For all questions regarding milestone assignments and the robot, **you should contact the Doctoral Instructor Assistant via direct message on Slack**. Please do not contact the Instructor with questions regarding the milestone assignments. This is the URL for Slack for this course. 
 
 <https://spring2026txstrobot.slack.com/>
